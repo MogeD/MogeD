@@ -1,5 +1,5 @@
 🤙 Hi, I’m David.
-👀 I’m interested in Data Analytics, Business Analytics, Backend Development.
+👀 I’m interested in Data Analytics, Business Analytics, Backend Development Projects.
 
 📊 I’m currently using data for opportunity identification, process re-engineering, and drive business effectiveness.
 🤝 I’m passionate about to leading and collaborating with teams of talented professionals in the development, documentation, and
